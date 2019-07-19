@@ -3,7 +3,7 @@ AES(Advanced Encryption Standard) Encryption and Decryption implementation from 
 
 1.  Clone it into a directory using the command
  
-   git clone https://github.com/anujssmishra/PBL-Projects.git
+   git clone https://github.com/anujssmishra/AES-Cryptography.git
 
 2.  Download and Install GCC compiler for C language.
 
