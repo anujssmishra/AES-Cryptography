@@ -1,0 +1,2 @@
+this is first demo of the C project
+initiator of the programming
